@@ -1,0 +1,10 @@
+{
+  "name": "ArchiveMe",
+  "description": "Redirect to archive.ph version of webpage",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
